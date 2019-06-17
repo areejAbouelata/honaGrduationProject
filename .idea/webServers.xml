@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9c63076b-d031-4d57-a0e9-e6a94644cfd1" name="hona" url="http://ftp.honabot.info">
+        <fileTransfer host="ftp.honabot.info" port="21" password="df8adf84df93dffcdfe3dfdbdf87dfdedff7dff0df84dfffdfd2" username="Areej@honabot.info">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
